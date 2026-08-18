@@ -69,6 +69,7 @@ readable in a `git diff`:
 | `imgur-fL88z7p.png` | https://i.imgur.com/fL88z7p.png |
 | `imgur-hKBqtWE.png` | https://i.imgur.com/hKBqtWE.png |
 | `imgur-hckhnZy.png` | https://i.imgur.com/hckhnZy.png |
+| `imgur-iEpKYL0.jpg` | https://i.imgur.com/iEpKYL0.jpg |
 | `imgur-kK3l1C1.png` | https://i.imgur.com/kK3l1C1.png |
 | `imgur-kryyJRy.png` | https://i.imgur.com/kryyJRy.png |
 | `imgur-l329bR4.png` | https://i.imgur.com/l329bR4.png |
